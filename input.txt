@@ -1,0 +1,52 @@
+cr a 1
+req R4 3
+req R4 1
+cr x 2
+req R4 2
+req R3 1
+req R3 2
+cr y 2
+req R3 1
+cr z 2
+req R3 2
+cr b 2
+req R1 1
+req R4 2
+cr c 2
+req R1 1
+cr d 2
+req R4 2
+rel R4 4
+to
+to
+to
+de b
+to
+to
+req R2 2
+req R1 1
+req R3 2
+de c
+de d
+rel R3 3
+to
+to
+to
+rel R3 2
+to
+to
+to
+cr s 1
+req R1 1
+req R2 2
+req R3 3
+req R4 4
+req R4 2
+de x
+req R1 1
+de a
+cr t 1
+req R1 1
+req R2 2
+req R3 3
+req R4 4
